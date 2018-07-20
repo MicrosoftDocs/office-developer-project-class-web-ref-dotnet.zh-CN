@@ -1,0 +1,90 @@
+<Type Name="PjItemType" FullName="Microsoft.Office.Interop.MSProject.PjItemType">
+  <Metadata>
+    <Meta Name="ms.openlocfilehash" Value="ccadd83fc8af1e6d405fdadb06ef3b7a6f337cb0" />
+    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
+    <Meta Name="ms.translationtype" Value="MT" />
+    <Meta Name="ms.contentlocale" Value="zh-CN" />
+    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
+    <Meta Name="ms.locfileid" Value="20652252" />
+  </Metadata>
+  <TypeSignature Language="C#" Value="public enum PjItemType" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjItemType extends System.Enum" />
+  <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjItemType" />
+  <TypeSignature Language="VB.NET" Value="Public Enum PjItemType" />
+  <TypeSignature Language="C++ CLI" Value="public enum class PjItemType" />
+  <AssemblyInfo>
+    <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+    <AssemblyVersion>15.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Enum</BaseTypeName>
+  </Base>
+  <Attributes>
+    <Attribute>
+      <AttributeName>System.Runtime.InteropServices.Guid("AC4A7E94-53A5-4520-99C1-94BF31AAAC61")</AttributeName>
+    </Attribute>
+  </Attributes>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="pjOtherItem">
+      <MemberSignature Language="C#" Value="pjOtherItem" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjItemType pjOtherItem = int32(2)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjItemType.pjOtherItem" />
+      <MemberSignature Language="VB.NET" Value="pjOtherItem" />
+      <MemberSignature Language="C++ CLI" Value="pjOtherItem" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjItemType</ReturnType>
+      </ReturnValue>
+      <MemberValue>2</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="pjResourceItem">
+      <MemberSignature Language="C#" Value="pjResourceItem" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjItemType pjResourceItem = int32(1)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjItemType.pjResourceItem" />
+      <MemberSignature Language="VB.NET" Value="pjResourceItem" />
+      <MemberSignature Language="C++ CLI" Value="pjResourceItem" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjItemType</ReturnType>
+      </ReturnValue>
+      <MemberValue>1</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="pjTaskItem">
+      <MemberSignature Language="C#" Value="pjTaskItem" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjItemType pjTaskItem = int32(0)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjItemType.pjTaskItem" />
+      <MemberSignature Language="VB.NET" Value="pjTaskItem" />
+      <MemberSignature Language="C++ CLI" Value="pjTaskItem" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjItemType</ReturnType>
+      </ReturnValue>
+      <MemberValue>0</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+  </Members>
+</Type>

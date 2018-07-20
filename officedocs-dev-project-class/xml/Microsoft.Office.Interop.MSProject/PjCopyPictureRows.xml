@@ -1,0 +1,71 @@
+<Type Name="PjCopyPictureRows" FullName="Microsoft.Office.Interop.MSProject.PjCopyPictureRows">
+  <Metadata>
+    <Meta Name="ms.openlocfilehash" Value="dde4b2c49699f087c4e0df1d26521bbb1e167f9a" />
+    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
+    <Meta Name="ms.translationtype" Value="MT" />
+    <Meta Name="ms.contentlocale" Value="zh-CN" />
+    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
+    <Meta Name="ms.locfileid" Value="20652167" />
+  </Metadata>
+  <TypeSignature Language="C#" Value="public enum PjCopyPictureRows" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjCopyPictureRows extends System.Enum" />
+  <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjCopyPictureRows" />
+  <TypeSignature Language="VB.NET" Value="Public Enum PjCopyPictureRows" />
+  <TypeSignature Language="C++ CLI" Value="public enum class PjCopyPictureRows" />
+  <AssemblyInfo>
+    <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+    <AssemblyVersion>15.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Enum</BaseTypeName>
+  </Base>
+  <Attributes>
+    <Attribute>
+      <AttributeName>System.Runtime.InteropServices.Guid("EAF639C0-7551-11D0-8767-00A0C903AACF")</AttributeName>
+    </Attribute>
+  </Attributes>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="pjCopyOnScreen">
+      <MemberSignature Language="C#" Value="pjCopyOnScreen" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjCopyPictureRows pjCopyOnScreen = int32(0)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjCopyPictureRows.pjCopyOnScreen" />
+      <MemberSignature Language="VB.NET" Value="pjCopyOnScreen" />
+      <MemberSignature Language="C++ CLI" Value="pjCopyOnScreen" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjCopyPictureRows</ReturnType>
+      </ReturnValue>
+      <MemberValue>0</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="pjCopySelected">
+      <MemberSignature Language="C#" Value="pjCopySelected" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjCopyPictureRows pjCopySelected = int32(1)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjCopyPictureRows.pjCopySelected" />
+      <MemberSignature Language="VB.NET" Value="pjCopySelected" />
+      <MemberSignature Language="C++ CLI" Value="pjCopySelected" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjCopyPictureRows</ReturnType>
+      </ReturnValue>
+      <MemberValue>1</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+  </Members>
+</Type>

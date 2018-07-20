@@ -1,0 +1,90 @@
+<Type Name="PjCompareVersionColumns" FullName="Microsoft.Office.Interop.MSProject.PjCompareVersionColumns">
+  <Metadata>
+    <Meta Name="ms.openlocfilehash" Value="5313da0ee34dc22a45595aa94cee525714aa6130" />
+    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
+    <Meta Name="ms.translationtype" Value="MT" />
+    <Meta Name="ms.contentlocale" Value="zh-CN" />
+    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
+    <Meta Name="ms.locfileid" Value="20651977" />
+  </Metadata>
+  <TypeSignature Language="C#" Value="public enum PjCompareVersionColumns" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjCompareVersionColumns extends System.Enum" />
+  <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjCompareVersionColumns" />
+  <TypeSignature Language="VB.NET" Value="Public Enum PjCompareVersionColumns" />
+  <TypeSignature Language="C++ CLI" Value="public enum class PjCompareVersionColumns" />
+  <AssemblyInfo>
+    <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+    <AssemblyVersion>15.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Enum</BaseTypeName>
+  </Base>
+  <Attributes>
+    <Attribute>
+      <AttributeName>System.Runtime.InteropServices.Guid("0E4F5320-C10D-45ED-A34C-78DDA6A45B52")</AttributeName>
+    </Attribute>
+  </Attributes>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="pjCompareVersionColumnsDataAndDifferences">
+      <MemberSignature Language="C#" Value="pjCompareVersionColumnsDataAndDifferences" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjCompareVersionColumns pjCompareVersionColumnsDataAndDifferences = int32(0)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjCompareVersionColumns.pjCompareVersionColumnsDataAndDifferences" />
+      <MemberSignature Language="VB.NET" Value="pjCompareVersionColumnsDataAndDifferences" />
+      <MemberSignature Language="C++ CLI" Value="pjCompareVersionColumnsDataAndDifferences" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjCompareVersionColumns</ReturnType>
+      </ReturnValue>
+      <MemberValue>0</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="pjCompareVersionColumnsDataOnly">
+      <MemberSignature Language="C#" Value="pjCompareVersionColumnsDataOnly" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjCompareVersionColumns pjCompareVersionColumnsDataOnly = int32(1)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjCompareVersionColumns.pjCompareVersionColumnsDataOnly" />
+      <MemberSignature Language="VB.NET" Value="pjCompareVersionColumnsDataOnly" />
+      <MemberSignature Language="C++ CLI" Value="pjCompareVersionColumnsDataOnly" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjCompareVersionColumns</ReturnType>
+      </ReturnValue>
+      <MemberValue>1</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="pjCompareVersionColumnsDifferencesOnly">
+      <MemberSignature Language="C#" Value="pjCompareVersionColumnsDifferencesOnly" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjCompareVersionColumns pjCompareVersionColumnsDifferencesOnly = int32(2)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjCompareVersionColumns.pjCompareVersionColumnsDifferencesOnly" />
+      <MemberSignature Language="VB.NET" Value="pjCompareVersionColumnsDifferencesOnly" />
+      <MemberSignature Language="C++ CLI" Value="pjCompareVersionColumnsDifferencesOnly" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjCompareVersionColumns</ReturnType>
+      </ReturnValue>
+      <MemberValue>2</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+  </Members>
+</Type>

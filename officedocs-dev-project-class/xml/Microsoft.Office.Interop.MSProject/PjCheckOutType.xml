@@ -1,0 +1,71 @@
+<Type Name="PjCheckOutType" FullName="Microsoft.Office.Interop.MSProject.PjCheckOutType">
+  <Metadata>
+    <Meta Name="ms.openlocfilehash" Value="72e9735557578c9c9a6d7d3d3fc70e1f37b16357" />
+    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
+    <Meta Name="ms.translationtype" Value="MT" />
+    <Meta Name="ms.contentlocale" Value="zh-CN" />
+    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
+    <Meta Name="ms.locfileid" Value="20652124" />
+  </Metadata>
+  <TypeSignature Language="C#" Value="public enum PjCheckOutType" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjCheckOutType extends System.Enum" />
+  <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjCheckOutType" />
+  <TypeSignature Language="VB.NET" Value="Public Enum PjCheckOutType" />
+  <TypeSignature Language="C++ CLI" Value="public enum class PjCheckOutType" />
+  <AssemblyInfo>
+    <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+    <AssemblyVersion>15.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Enum</BaseTypeName>
+  </Base>
+  <Attributes>
+    <Attribute>
+      <AttributeName>System.Runtime.InteropServices.Guid("827DEEFF-147D-4ADE-A579-758A7270BC1D")</AttributeName>
+    </Attribute>
+  </Attributes>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="pjReadOnly">
+      <MemberSignature Language="C#" Value="pjReadOnly" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjCheckOutType pjReadOnly = int32(0)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjCheckOutType.pjReadOnly" />
+      <MemberSignature Language="VB.NET" Value="pjReadOnly" />
+      <MemberSignature Language="C++ CLI" Value="pjReadOnly" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjCheckOutType</ReturnType>
+      </ReturnValue>
+      <MemberValue>0</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="pjReadWrite">
+      <MemberSignature Language="C#" Value="pjReadWrite" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjCheckOutType pjReadWrite = int32(1)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjCheckOutType.pjReadWrite" />
+      <MemberSignature Language="VB.NET" Value="pjReadWrite" />
+      <MemberSignature Language="C++ CLI" Value="pjReadWrite" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjCheckOutType</ReturnType>
+      </ReturnValue>
+      <MemberValue>1</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+  </Members>
+</Type>
