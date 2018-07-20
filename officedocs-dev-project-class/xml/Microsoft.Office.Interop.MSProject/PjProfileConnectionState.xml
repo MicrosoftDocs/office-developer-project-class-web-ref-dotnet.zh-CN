@@ -1,0 +1,71 @@
+<Type Name="PjProfileConnectionState" FullName="Microsoft.Office.Interop.MSProject.PjProfileConnectionState">
+  <Metadata>
+    <Meta Name="ms.openlocfilehash" Value="7f378d2e07c07f5b0fc35e7c2041eb2975a8c2ff" />
+    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
+    <Meta Name="ms.translationtype" Value="MT" />
+    <Meta Name="ms.contentlocale" Value="zh-CN" />
+    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
+    <Meta Name="ms.locfileid" Value="20651766" />
+  </Metadata>
+  <TypeSignature Language="C#" Value="public enum PjProfileConnectionState" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjProfileConnectionState extends System.Enum" />
+  <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjProfileConnectionState" />
+  <TypeSignature Language="VB.NET" Value="Public Enum PjProfileConnectionState" />
+  <TypeSignature Language="C++ CLI" Value="public enum class PjProfileConnectionState" />
+  <AssemblyInfo>
+    <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+    <AssemblyVersion>15.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Enum</BaseTypeName>
+  </Base>
+  <Attributes>
+    <Attribute>
+      <AttributeName>System.Runtime.InteropServices.Guid("C1598A44-9CE0-4A34-A7D0-8C8C0CA707EB")</AttributeName>
+    </Attribute>
+  </Attributes>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="pjProfileOffline">
+      <MemberSignature Language="C#" Value="pjProfileOffline" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjProfileConnectionState pjProfileOffline = int32(0)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjProfileConnectionState.pjProfileOffline" />
+      <MemberSignature Language="VB.NET" Value="pjProfileOffline" />
+      <MemberSignature Language="C++ CLI" Value="pjProfileOffline" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjProfileConnectionState</ReturnType>
+      </ReturnValue>
+      <MemberValue>0</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="pjProfileOnline">
+      <MemberSignature Language="C#" Value="pjProfileOnline" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjProfileConnectionState pjProfileOnline = int32(1)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjProfileConnectionState.pjProfileOnline" />
+      <MemberSignature Language="VB.NET" Value="pjProfileOnline" />
+      <MemberSignature Language="C++ CLI" Value="pjProfileOnline" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjProfileConnectionState</ReturnType>
+      </ReturnValue>
+      <MemberValue>1</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+  </Members>
+</Type>

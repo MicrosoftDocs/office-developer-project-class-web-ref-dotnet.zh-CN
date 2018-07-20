@@ -1,0 +1,14 @@
+<Namespace Name="Microsoft.Office.Interop.MSProject">
+  <Metadata>
+    <Meta Name="ms.openlocfilehash" Value="6c23679578c7c54ee3b57fc4b9b48a9498275470" />
+    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
+    <Meta Name="ms.translationtype" Value="MT" />
+    <Meta Name="ms.contentlocale" Value="zh-CN" />
+    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
+    <Meta Name="ms.locfileid" Value="20652268" />
+  </Metadata>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+</Namespace>

@@ -1,0 +1,52 @@
+<Type Name="PjDialog" FullName="Microsoft.Office.Interop.MSProject.PjDialog">
+  <Metadata>
+    <Meta Name="ms.openlocfilehash" Value="a0297272c1a7d85db737c174fb0c8e0eb60f2a78" />
+    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
+    <Meta Name="ms.translationtype" Value="MT" />
+    <Meta Name="ms.contentlocale" Value="zh-CN" />
+    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
+    <Meta Name="ms.locfileid" Value="20652344" />
+  </Metadata>
+  <TypeSignature Language="C#" Value="public enum PjDialog" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjDialog extends System.Enum" />
+  <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjDialog" />
+  <TypeSignature Language="VB.NET" Value="Public Enum PjDialog" />
+  <TypeSignature Language="C++ CLI" Value="public enum class PjDialog" />
+  <AssemblyInfo>
+    <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+    <AssemblyVersion>15.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Enum</BaseTypeName>
+  </Base>
+  <Attributes>
+    <Attribute>
+      <AttributeName>System.Runtime.InteropServices.Guid("B05582C0-919A-11CF-982C-00AA00322803")</AttributeName>
+    </Attribute>
+  </Attributes>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="pjResourceAssignment">
+      <MemberSignature Language="C#" Value="pjResourceAssignment" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Office.Interop.MSProject.PjDialog pjResourceAssignment = int32(4087)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Office.Interop.MSProject.PjDialog.pjResourceAssignment" />
+      <MemberSignature Language="VB.NET" Value="pjResourceAssignment" />
+      <MemberSignature Language="C++ CLI" Value="pjResourceAssignment" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Office.Interop.MSProject</AssemblyName>
+        <AssemblyVersion>15.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Office.Interop.MSProject.PjDialog</ReturnType>
+      </ReturnValue>
+      <MemberValue>4087</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+  </Members>
+</Type>
